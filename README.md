@@ -1,8 +1,8 @@
 # zxkodas
 
-![GitHub](https://img.shields.io/badge/GitHub-zxkodas-181717?logo=github&logoColor=white)](https://github.com/zxkodas)
-![Santa Fe, Argentina](https://img.shields.io/badge/Santa%20Fe%2C%20Argentina-ff6b45)
-![Discord](https://img.shields.io/badge/Discord-kodascript-5865F2?logo=discord&logoColor=white)](https://discord.com/users/kodascript)
+![GitHub](https://img.shields.io/badge/GitHub-zxkodas-181717?style=flat-square)](https://github.com/zxkodas)
+![Santa Fe, Argentina](https://img.shields.io/badge/Santa%20Fe-ff6b45?style=flat-square)
+![Discord](https://img.shields.io/badge/Discord-kodascript-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kodascript)
 
 Herramientas para Windows. Python, C#, y las capas incómodas que nadie quiere
 tocar: el registro, los servicios, los permisos.
