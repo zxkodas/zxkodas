@@ -5,4 +5,4 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zxkodas&layout=compact&theme=tokyonight)
+![Top Langs](assets/top-langs.svg)
